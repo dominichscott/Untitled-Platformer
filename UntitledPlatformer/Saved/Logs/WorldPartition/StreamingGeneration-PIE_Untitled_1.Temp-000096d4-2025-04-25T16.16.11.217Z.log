@@ -1,0 +1,46 @@
+[+] Containers:
+ |- [+] Container: /Temp/Untitled_1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:937F3A324C93CE0BF8B10D8A93742B5D NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_345A600A461B4F6202_1658433889 Label:Cube SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=300.000 Y=-80.000 Z=-80.000), Max=(X=400.000 Y=20.000 Z=20.000) RuntimeBounds:IsValid=true, Min=(X=300.000 Y=-80.000 Z=-80.000), Max=(X=400.000 Y=20.000 Z=20.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:BEFBA6354EF29AD9D62A31863FADFCB9 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:DF87A9CC4225B7E67EE8CCBDA2634262 NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_345A600A461B4F6202_1669335890 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:937F3A324C93CE0BF8B10D8A93742B5D NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_345A600A461B4F6202_1658433889 Label:Cube SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=300.000 Y=-80.000 Z=-80.000), Max=(X=400.000 Y=20.000 Z=20.000) RuntimeBounds:IsValid=true, Min=(X=300.000 Y=-80.000 Z=-80.000), Max=(X=400.000 Y=20.000 Z=20.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:true ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:BEFBA6354EF29AD9D62A31863FADFCB9 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:DF87A9CC4225B7E67EE8CCBDA2634262 NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_345A600A461B4F6202_1669335890 Label:DirectionalLight SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=300.000 Y=-80.000 Z=-80.000), Max=(X=400.000 Y=20.000 Z=20.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Temp/Untitled_1
+----------------------------------------------------------------------------------------------------------------
+Untitled - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Untitled Persistent Level
+ |- Always loaded Actor Count: 2 
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.DirectionalLight_UAID_345A600A461B4F6202_1669335890
+ |- Actor Package: /Temp/__ExternalActors__/Untitled_1/0/J7/7QQMM1SNWM8CNBCOS331ZG
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Temp/__ExternalActors__/Untitled_1/E/8Z/YRWO5L41PJA7Q9D3CDC0L2
+
+----------------------------------------------------------------------------------------------------------------
+Untitled - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell Untitled_1_MainPartition_L0_X0_Y-1 (0WINY1969F5DO4BTVH8CJS780)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=300.000 Y=-80.000 Z=-0.000), Max=(X=400.000 Y=0.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-12800.000 Z=0.000), Max=(X=12800.000 Y=0.000 Z=0.000)
+ |- Is 2D: True
+ |- [+] /Temp/Untitled_1.Untitled:PersistentLevel.StaticMeshActor_UAID_345A600A461B4F6202_1658433889
+ |   |-         Package: /Temp/__ExternalActors__/Untitled_1/1/O7/EL46X6T6PT6JG91OAUY7MB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 937F3A324C93CE0BF8B10D8A93742B5D
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
